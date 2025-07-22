@@ -1,3 +1,4 @@
+[English](README.en.md) | [中文](README.md)
 # OpenWrt-Nikki Configuration Backup
 
 This repository contains personal **Nikki configuration files** and **rules** for setting up transparent proxy (Mihomo) on OpenWrt. These files and rules are mainly for personal backup, allowing quick restoration and management.
