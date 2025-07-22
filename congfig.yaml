@@ -173,6 +173,7 @@ rule-anchor:
   class: &class {type: http, interval: 86400, behavior: classical, format: text}
   domain2: &domain2 {type: http, interval: 86400, behavior: domain, format: yaml}
 
+
 # 规则集引用
 rule-providers: 
   private_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs", path: ./ruleset/ai.mrs}
