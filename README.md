@@ -1,3 +1,4 @@
+[English](README.en.md) | [中文](README.zh.md)
 # OpenWrt-Nikki 配置备份 / OpenWrt-Nikki Configuration Backup
 
 此仓库包含自用的 **Nikki 配置文件** 和 **规则**，用于在 OpenWrt 上设置透明代理（Mihomo）。这些配置文件和规则主要用于个人备份，便于快速恢复和管理。  
