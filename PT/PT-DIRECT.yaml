@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,springsunday.net
-  - DOMAIN,piggo.me
-  - DOMAIN,hddolby.com
-  - DOMAIN,hdarea.club
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,piggo.me
+  - DOMAIN-SUFFIX,hddolby.com
