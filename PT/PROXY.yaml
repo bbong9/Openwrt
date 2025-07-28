@@ -1,6 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,pt.btschool.club
+  - DOMAIN-SUFFIX,byr.pt
+  - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,star-space.net
-  - DOMAIN-SUFFIX,fsm.name
   - DOMAIN-SUFFIX,monikadesign.uk
   - DOMAIN-SUFFIX,hdbits.org
   - DOMAIN-SUFFIX,torrentleech.org
@@ -45,7 +47,6 @@ payload:
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,ubits.club
-  - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,hdarea.club
   - DOMAIN-SUFFIX,pthome.net
   - DOMAIN-SUFFIX,hdatmos.club
