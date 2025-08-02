@@ -126,6 +126,15 @@ proxy-groups:
 # 规则匹配
 # 此规则部分没有做防泄露处理，因为弊严重大于利！
 rules:
+  - IP-CIDR,144.34.230.131/32,🎯 直连
+  - IP-CIDR,47.76.58.115/32,🎯 直连
+  - IP-CIDR,46.232.107.30/32,🎯 直连
+  - IP-CIDR,23.146.72.187/32,🎯 直连
+  - DOMAIN-SUFFIX,bbong9.cn,🎯 直连
+  - DOMAIN,younoyes.com,🎯 直连
+  - DOMAIN,challenges.cloudflare.com,🚀 默认代理
+  - DOMAIN-SUFFIX,niceduck.lol,🚀 默认代理
+  - DOMAIN-SUFFIX,qichiyu.com,🚀 默认代理
   - RULE-SET,private_domain,直连
   - RULE-SET, Apple-CN,🍎 Apple
   - RULE-SET, Apple,🍎 Apple
