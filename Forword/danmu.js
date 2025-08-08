@@ -27,8 +27,8 @@ WidgetMetadata = {
       type: "input",
       placeholders: [
         {
-          title: "bbong9",
-          value: "https://dm.bbong9.cn/api/4yGx7oJd3VQWMpr39HkW",
+          title: "弹弹play",
+          value: "https://api.dandanplay.net",
         },
       ],
     },
@@ -251,4 +251,3 @@ async function getCommentsById(params) {
   // }
   return null;
 }
-
